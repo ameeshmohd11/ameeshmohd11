@@ -37,17 +37,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ameeshmohd11/ameeshmohd11/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ameeshmohd11/ameeshmohd11/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/ameeshmohd11/ameeshmohd11/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
